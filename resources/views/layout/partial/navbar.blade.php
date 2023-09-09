@@ -12,7 +12,7 @@
     <section class="">
         <nav class=" bg-gradient-to-r from-gray-700 to-black z-10 bg-cover  fixed w-full top-0 left-0  dark:border-gray-700 ">
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 ">
-                <a href="#" class="flex items-center ">
+                <a href="/" class="flex items-center ">
                     <img src="{{ asset('img/logosyafaat.jpeg') }}" class=" rounded-lg h-20 " alt="Logo Syafaat" />
                     <!-- <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span> -->
                 </a>
@@ -35,7 +35,7 @@
                             <div id="dropdownNavbar" class="z-10 hidden font-normal bg-gray-300 divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
                                 <ul class="py-2 text-sm text-gray-1000 text-bold dark:text-gray-400" aria-labelledby="dropdownLargeButton">
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian PT Perorangan</a>
+                                        <a href="/ptpersero" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian PT Perorangan</a>
                                     </li>
                                     <li>
                                         <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian CV</a>
@@ -92,6 +92,36 @@
                         </li>
 
                         <li>
+                            <button id="dropdownNavbarLink3" data-dropdown-toggle="dropdownNavbar3" class="flex items-center justify-between w-full py-2 pl-3 pr-4 text-white rounded hover:bg-yellow-800 md:hover:bg-transparent md:border-0 md:hover:text-yellow-500 md:p-0 md:w-auto dark:text-white md:dark:hover:text-blue-500 dark:focus:text-white dark:border-gray-700 dark:hover:bg-gray-700 md:dark:hover:bg-transparent">Peraturan <svg class="w-2.5 h-2.5 ml-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4" />
+                                </svg></button>
+                            <!-- Dropdown menu -->
+                            <div id="dropdownNavbar3" class="z-10 hidden font-normal bg-gray-300 divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
+                                <ul class="py-2 text-sm text-gray-1000 text-bold dark:text-gray-400" aria-labelledby="dropdownLargeButton">
+                                    <li>
+                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Peraturan OSS (Online Single Submission) </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Peraturan Pendirian Badan Usaha</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Peraturan Perizinan dan Pendaftaran</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Peraturan Perizinan KBLI dan DNI</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Peraturan Lainnya</a>
+                                    </li>
+                                </ul>
+                                <!-- <div class="py-1">
+                                    <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-400 dark:hover:text-white">Sign out</a>
+                                </div> -->
+                            </div>
+                        </li>
+
+
+                        <li>
                             <a href="/artikel" class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-800 md:hover:bg-transparent md:border-0 md:hover:text-yellow-500 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Artikel</a>
                         </li>
                         <li>
@@ -107,7 +137,7 @@
         </nav>
     </section>
 
-    
+
 
     <div class="container">
         @yield('coontainer')

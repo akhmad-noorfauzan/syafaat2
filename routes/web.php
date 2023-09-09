@@ -25,4 +25,7 @@ Route::get('/tentang', function () {
     return view('tentang');
 });
 
+Route::get('/ptpersero', function () {
+    return view('ptpersero'); // Perbaiki rujukan tampilan
+});
 
