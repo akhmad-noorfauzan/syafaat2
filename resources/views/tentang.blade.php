@@ -1,8 +1,6 @@
-@extends('layout.navbar')
+@extends('layout.homelayout')
 
-@section('container')
-
-<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste at reprehenderit tempora odio quas laudantium maxime, voluptates doloremque excepturi optio ipsam consectetur, aliquid suscipit cupiditate iusto tenetur pariatur minus. Maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia adipisci perspiciatis repellat, necessitatibus consectetur quae debitis eos qui nisi dolores dicta, quia placeat. Sapiente accusamus nisi illum quaerat dolorem ex.</h1>
+@section('content')
 
 <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste at reprehenderit tempora odio quas laudantium maxime, voluptates doloremque excepturi optio ipsam consectetur, aliquid suscipit cupiditate iusto tenetur pariatur minus. Maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia adipisci perspiciatis repellat, necessitatibus consectetur quae debitis eos qui nisi dolores dicta, quia placeat. Sapiente accusamus nisi illum quaerat dolorem ex.</h1>
 
@@ -25,6 +23,7 @@
 <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste at reprehenderit tempora odio quas laudantium maxime, voluptates doloremque excepturi optio ipsam consectetur, aliquid suscipit cupiditate iusto tenetur pariatur minus. Maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia adipisci perspiciatis repellat, necessitatibus consectetur quae debitis eos qui nisi dolores dicta, quia placeat. Sapiente accusamus nisi illum quaerat dolorem ex.</h1>
 
 <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste at reprehenderit tempora odio quas laudantium maxime, voluptates doloremque excepturi optio ipsam consectetur, aliquid suscipit cupiditate iusto tenetur pariatur minus. Maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia adipisci perspiciatis repellat, necessitatibus consectetur quae debitis eos qui nisi dolores dicta, quia placeat. Sapiente accusamus nisi illum quaerat dolorem ex.</h1>
-@endsection('container')
 
-@extends('layout.footer')
+<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste at reprehenderit tempora odio quas laudantium maxime, voluptates doloremque excepturi optio ipsam consectetur, aliquid suscipit cupiditate iusto tenetur pariatur minus. Maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia adipisci perspiciatis repellat, necessitatibus consectetur quae debitis eos qui nisi dolores dicta, quia placeat. Sapiente accusamus nisi illum quaerat dolorem ex.</h1>
+@endsection('content')
+

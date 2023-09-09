@@ -24,3 +24,5 @@ Route::get('/artikel', function () {
 Route::get('/tentang', function () {
     return view('tentang');
 });
+
+
