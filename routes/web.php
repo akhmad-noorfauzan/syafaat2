@@ -29,3 +29,24 @@ Route::get('/ptpersero', function () {
     return view('ptpersero'); // Perbaiki rujukan tampilan
 });
 
+Route::get('/cv', function () {
+    return view('cv'); // Perbaiki rujukan tampilan
+});
+
+
+Route::get('/oss', function () {
+    return view('oss'); // Perbaiki rujukan tampilan
+});
+
+Route::get('/yayasan', function () {
+    return view('yayasan'); // Perbaiki rujukan tampilan
+});
+
+Route::get('/lkpm', function () {
+    return view('lkpm'); // Perbaiki rujukan tampilan
+});
+
+Route::get('/modal', function () {
+    return view('modal'); // Perbaiki rujukan tampilan
+});
+

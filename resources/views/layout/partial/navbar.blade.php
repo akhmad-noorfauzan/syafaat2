@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <section class="">
+    <section class=" ">
         <nav class=" bg-gradient-to-r from-gray-700 to-black z-10 bg-cover  fixed w-full top-0 left-0  dark:border-gray-700 ">
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 ">
                 <a href="/" class="flex items-center ">
@@ -38,25 +38,25 @@
                                         <a href="/ptpersero" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian PT Perorangan</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian CV</a>
+                                        <a href="/cv" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian CV</a>
                                     </li>
                                     <li>
                                         <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Layanan Izin Usaha</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Layanan OSS RBA</a>
+                                        <a href="/oss" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Layanan OSS RBA</a>
                                     </li>
                                     <li>
                                         <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Paket Izin UMK</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian Yayasan atau Badan Usaha Lain</a>
+                                        <a href="/yayasan" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian Yayasan atau Badan Usaha Lain</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Layanan LKPM</a>
+                                        <a href="/lkpm" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Layanan LKPM</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Penanaman Modal Asing</a>
+                                        <a href="/modal" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Penanaman Modal Asing</a>
                                     </li>
                                     <li>
                                         <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendaftaran Merek</a>
@@ -128,7 +128,7 @@
                             <a href="/tentang" class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-800 md:hover:bg-transparent md:border-0 md:hover:text-yellow-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Tentang </a>
                         </li>
                         <div class=" flex md:order-2 ">
-                            <button type="button" class="transition duration-150 ease-in-out text-white bg-yellow-800 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-gray-800 font-medium rounded-lg text-sm px-4 py-2 text-center mr-3 md:mr-0 dark:bg-yellow-500 dark:hover:bg-yellow-800 dark:focus:ring-gray-800 "> Masuk</button>
+                            <button type="button" class="transition delay-150 duration-300 ease-in-out text-white bg-yellow-800 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-gray-800 font-medium rounded-lg text-sm px-4 py-2 text-center mr-3 md:mr-0 dark:bg-yellow-500 dark:hover:bg-yellow-800 dark:focus:ring-gray-800 "> Masuk</button>
 
                         </div>
                     </ul>

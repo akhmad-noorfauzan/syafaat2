@@ -21,6 +21,8 @@ module.exports = {
         "./resources/**/*.blade.php",
         "./resources/**/*.js",
         "./resources/**/*.vue",
+        "./src/**/*.{html,js}",
+        "./node_modules/tw-elements/dist/js/**/*.js",
     ],
     theme: {
         extend: {
@@ -32,5 +34,6 @@ module.exports = {
         },
     },
     variants: {},
-    plugins: [require("flowbite/plugin")],
+    plugins: [require("flowbite/plugin"),require("tw-elements/dist/plugin.cjs")],
+    darkMode: "class"
 };

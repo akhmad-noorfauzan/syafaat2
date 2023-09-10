@@ -27,108 +27,128 @@
       <!-- <p class="lg:w-1/2 w-full leading-relaxed text-gray-400 text-opacity-90">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p> -->
     </div>
     <div class="flex flex-wrap -m-4 ">
-      <div class="xl:w-1/5 md:w-1/2 p-4">
-        <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content">
-          <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Ekonomis</h3>
-          <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Rp 1,4 juta</h2>
-          <div>
-            <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
-              <li>
-                Pengecekkan Nama PT
-              </li>
-              <li>
-                Sertifikat Pendaftaran Pendirian PT Perorangan
-              </li>
-              <li>
-                Surat Pernyataan Pendirian PT Perorangan
-              </li>
-            </ul>
-            <ul class="pl-6 pt-2  marker:text-3xl list-image-close">
-              <li>Kartu NPWP perusahaan</li>
-              <li>Nomor Induk Berusaha (NIB)</li>
-              <li>Virtual Office</li>
-            </ul>
+      <div class="xl:w-1/3 md:w-1/2 p-4">
+        <a href="/">
+          <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+            <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content">
+            <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Ekonomis</h3>
+            <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Rp 1,4 juta</h2>
+            <div>
+              <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
+                <li>
+                  Pengecekkan Nama PT
+                </li>
+                <li>
+                  Sertifikat Pendaftaran Pendirian PT Perorangan
+                </li>
+                <li>
+                  Surat Pernyataan Pendirian PT Perorangan
+                </li>
+              </ul>
+              <ul class="pl-6 pt-2  marker:text-3xl list-image-close">
+                <li>Kartu NPWP perusahaan</li>
+                <li>Nomor Induk Berusaha (NIB)</li>
+                <li>Virtual Office</li>
+              </ul>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
-      <div class="xl:w-1/5 md:w-1/2 p-4">
-        <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content">
-          <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Basic</h3>
-          <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Rp 2,6 juta</h2>
-          <div>
-            <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
-              <li>
-                Pengecekkan Nama PT
-              </li>
-              <li>
-                Sertifikat Pendaftaran Pendirian PT Perorangan
-              </li>
-              <li>
-                Surat Pernyataan Pendirian PT Perorangan
-              </li>
-              <li>Kartu NPWP perusahaan</li>
-              <li>Nomor Induk Berusaha (NIB)</li>
-            </ul>
-            <ul class="pl-6 pt-2  marker:text-3xl list-image-close">
-              <li>Virtual Office</li>
-            </ul>
+      <div class="xl:w-1/3 md:w-1/2 p-4">
+        <a href="/">
+          <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+            <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content">
+            <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Basic</h3>
+            <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Rp 2,6 juta</h2>
+            <div>
+              <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
+                <li>
+                  Pengecekkan Nama PT
+                </li>
+                <li>
+                  Sertifikat Pendaftaran Pendirian PT Perorangan
+                </li>
+                <li>
+                  Surat Pernyataan Pendirian PT Perorangan
+                </li>
+                <li>Kartu NPWP perusahaan</li>
+                <li>Nomor Induk Berusaha (NIB)</li>
+              </ul>
+              <ul class="pl-6 pt-2  marker:text-3xl list-image-close">
+                <li>Virtual Office</li>
+              </ul>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
-      <div class="xl:w-1/5 md:w-1/2 p-4">
-        <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content">
-          <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Premium</h3>
-          <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Rp 4,3 juta</h2>
-          <div>
-            <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
-              <li>
-                Pengecekkan Nama PT
-              </li>
-              <li>
-                Sertifikat Pendaftaran Pendirian PT Perorangan
-              </li>
-              <li>
-                Surat Pernyataan Pendirian PT Perorangan
-              </li>
-              <li>Kartu NPWP perusahaan</li>
-              <li>Nomor Induk Berusaha (NIB)</li>
-              <li>Virtual Office</li>
-            </ul>
+      <div class="xl:w-1/3 md:w-1/2 p-4">
+        <a href="/">
+          <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+            <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content">
+            <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Premium</h3>
+            <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Rp 4,3 juta</h2>
+            <div>
+              <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
+                <li>
+                  Pengecekkan Nama PT
+                </li>
+                <li>
+                  Sertifikat Pendaftaran Pendirian PT Perorangan
+                </li>
+                <li>
+                  Surat Pernyataan Pendirian PT Perorangan
+                </li>
+                <li>Kartu NPWP perusahaan</li>
+                <li>Nomor Induk Berusaha (NIB)</li>
+                <li>Virtual Office</li>
+              </ul>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
-      <div class=" xl:w-1/5 md:w-1/2 p-4">
-        <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content">
-          <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Penutupan PT Perorangan</h3>
-          <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Tanya Via LiveChat</h2>
-          <div>
-            <p>Konsultasikan kebutuhan penutupan pendirian usaha Anda dengan kami!</p>
+      <div class=" xl:w-1/3 md:w-1/2 p-4">
+        <a href="/">
+          <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+            <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content">
+            <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Penutupan PT Perorangan</h3>
+            <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Tanya Via LiveChat</h2>
+            <div>
+              <p>Konsultasikan kebutuhan penutupan pendirian usaha Anda dengan kami!</p>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
 
-      <div class="xl:w-1/5 md:w-1/2 p-4">
-        <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content">
-          <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Custom</h3>
-          <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Tanya Via LiveChat</h2>
-          <p class="leading-relaxed text-base">Tidak menemukan layanan yang sesuai dengan kebutuhan Anda?
-            Ceritakan kebutuhan Anda pada kami!</p>
-        </div>
+      <div class="xl:w-1/3 md:w-1/2 p-4">
+        <a href="/">
+          <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+            <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content">
+            <h3 class="tracking-widest text-indigo-400 text-xs font-medium title-font">Paket Custom</h3>
+            <h2 class="text-4xl text-yellow-300 font-medium title-font mb-4">Tanya Via LiveChat</h2>
+            <p class="leading-relaxed text-base">Tidak menemukan layanan yang sesuai dengan kebutuhan Anda?
+              Ceritakan kebutuhan Anda pada kami!</p>
+          </div>
+      </div>
+      </a>
 
+      <div class="xl:w-1/3 md:w-1/2 p-20 pt-26 ">
+        <div class=" shadow-md  border bg-blue-950 rounded-2xl px-3">
+          <div>
+            <p class="text-white p-2">
+              Paket Premium Express 1 hari pengerjaan hanya tambah 1 juta!
+            </p>
+          </div>
+        </div>
+        <p class="pt-10 leading-relaxed text-base">*Harga di atas belum termasuk PPN 11%</p>
       </div>
     </div>
-
+  </div>
 </section>
 
 <section class=" bg-gray-800 text-gray-600 body-font">
   <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div class="w-full md:w-1/2 mb-10 md:mb-0">
-      <img src="{{ asset('img/ftptsero.avif') }}" class="transition-all duration-300  blur-sm hover:blur-none  w-full h-auto bg-fixed bg-no-repeat bg-center bg-cover rounded-xl" alt="Logo Syafaat" />
+      <img src="{{ asset('img/ftptsero.avif') }}" class="  w-full h-auto bg-fixed bg-no-repeat bg-center bg-cover rounded-xl" alt="Logo Syafaat" />
     </div>
     <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-100">Apa bedanya Pendirian PT biasa dengan ?
@@ -142,7 +162,7 @@
 
 
 <section class="bg-gray-800 text-gray-600 body-font">
-  <div class="flex flex-col items-center text-center w-full mb-1">
+  <div class="flex flex-col items-center text-center w-full   ">
     <h1 class="text-2xl pl-6 pr-4 font-medium title-font mb-4 text-white ">Lalu, Apa Untungnya Mendirikan PT Perorangan?</h1>
     {{-- <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p> --}}
     <div class="container px-5 py-24 mx-auto">
@@ -154,7 +174,7 @@
             <p class="text-yellow-500 text-2xl font-bold leading-relaxed">Kemudahan Mengurus
               Legalitas dan Administrasi</p>
             <span class="inline-block h-1 w-10 rounded bg-gray-100 mt-6 mb-4"></span>
-            <ul class="list-image-circle text-lg box-border border-4 bg-gray-200 rounded-xl list-disc text-gray-900 font-medium pl-4 text-left">
+            <ul class="list-image-circle box-border text-lg border-4 bg-gray-200 rounded-xl text-left list-disc text-gray-900 font-medium pl-4">
               <li>Miliki rekening bank perusahaan</li>
               <li>Bisa ikut dalam tender pemerintah</li>
               <li>Dapatkan tambahan modal dan investor</li>
@@ -272,7 +292,7 @@
       <h1 class="title-font sm:text-3xl text-3xl mb-0 font-medium text-gray-800">Fasilitas
       </h1>
       <h1 class="title-font sm:text-4xl text-3xl mb-0 font-medium text-yellow-400"> Virtual Office</h1>
-      <p>Khusus untuk klien Syafaat yang menggunakan layanan Paket Premium untuk mendirikan PT di wilayah DKI Jakarta, kami menyediakan fasilitas berupa virtual office selama 1 tahun yang beralamat di kantor Syafaat. Dengan menggunakan layanan virtual office Anda akan mendapatkan:</p>
+      <p>Khusus untuk klien Syafaat yang menggunakan layanan Paket Premium untuk mendirikan Kantor di Wilayah Kalimantan Selatan, kami menyediakan fasilitas berupa virtual office selama 1 tahun yang beralamat di kantor Syafaat. Dengan menggunakan layanan virtual office Anda akan mendapatkan:</p>
       <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
         <li>
           Alamat surat menyurat
