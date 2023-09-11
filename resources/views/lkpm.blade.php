@@ -132,10 +132,10 @@
 <section class="flex:wrap mx-28 text-gray-900">
     <div class="container py-24 ">
         <div class="text-center mb-10">
-            <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-yellow-700 mb-4">
+            <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-yellow-500 mb-4">
                 FAQ Seputar Layanan LKPM
             </h1>
-            <p class="text-base leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
+            <p class="text-white text-base leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
                 Pertanyaan yang sering ditanyakan terkait LKPM.
             </p>
         </div>
@@ -145,7 +145,7 @@
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
                     Apakah yang dimaksud dengan LKPM?
                 </summary>
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     LKPM merupakan Laporan mengenai perkembangan realisasi Penanaman Modal dan permasalahan yang dihadapi Pelaku Usaha yang wajib dibuat dan disampaikan secara berkala.
                 </span>
             </details>
@@ -154,7 +154,7 @@
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
                     Kapan kewajiban LKPM disampaikan?
                 </summary>
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Bagi Pelaku Usaha kecil setiap 6 bulan dalam 1 tahun laporan. Laporan semester I disampaikan paling lambat tanggal 10 bulan Juli tahun yang bersangkutan dan laporan semeseter II disampaikan paling lambat tanggal 10 bulan Januari tahun berikutnya. Sedangkan bagi Pelaku Usaha menengah dan besar, penyampaian LKPM dilaksanakan setiap 3 bulan (triwulan). Laporan triwulan I disampaikan paling lambat tanggal 10 bulan April tahun yang bersangkutan, laporan triwulan II disampaikan paling lambat tanggal 10 bulan Juli tahun yang bersangkutan, laporan triwulan III disampaikan paling lambat tanggal 10 bulan Oktober tahun yang bersangkutan, dan laporan triwulan IV disampaikan paling lambat tanggal 10 bulan Januari tahun berikutnya.
                 </span>
             </details>
@@ -163,7 +163,7 @@
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
                     Siapakah yang wajib melakukan pelaporan LKPM?
                 </summary>
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     LKPM wajib disampaikan oleh pelaku usaha kecil, menengah, dan besar.
                 </span>
             </details>
@@ -172,7 +172,7 @@
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
                     Bagaimana cara penyampaian LKPM?
                 </summary>
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Penyampaian LKPM dilakukan secara daring melalui Sistem OSS.
                 </span>
             </details>

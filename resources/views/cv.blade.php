@@ -241,12 +241,12 @@
             </div>
         </div>
 
-        <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
-            <h1 class="title-font sm:text-3xl text-3xl mb-0 font-medium text-gray-800">Fasilitas
+        <div class="lg:w-1/3 md:w-1/2 bg-transparent flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
+            <h1 class="title-font sm:text-3xl text-3xl mb-0 font-medium text-white">Fasilitas
             </h1>
             <h1 class="title-font sm:text-4xl text-3xl mb-0 font-medium text-yellow-400"> Virtual Office</h1>
-            <p>Khusus untuk klien Syafaat yang menggunakan layanan Paket Premium untuk mendirikan Kantor di Wilayah Kalimantan Selatan, kami menyediakan fasilitas berupa virtual office selama 1 tahun yang beralamat di kantor Syafaat. Dengan menggunakan layanan virtual office Anda akan mendapatkan:</p>
-            <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
+            <p class="text-white">Khusus untuk klien Syafaat yang menggunakan layanan Paket Premium untuk mendirikan Kantor di Wilayah Kalimantan Selatan, kami menyediakan fasilitas berupa virtual office selama 1 tahun yang beralamat di kantor Syafaat. Dengan menggunakan layanan virtual office Anda akan mendapatkan:</p>
+            <ul class="pl-6 pt-2 text-white marker:text-3xl list-image-ceklis">
                 <li>
                     Alamat surat menyurat
                 </li>
@@ -265,56 +265,56 @@
 
 
 
-    <section class= "flex:wrap mx-28 text-gray-700">
-        <div class="container py-24 ">
-            <div class="text-center mb-10">
-                <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-gray-900 mb-4">
-                    FAQ Pendirian CV
-                </h1>
-                <p class="text-base leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
-                    Pertanyaan yang sering ditanyakan oleh calon pendiri CV terkait paket pendirian CV.
-                </p>
-            </div>
-
-            <div class=" lg:w-1/1 px-4 py-2">
-                <details class="mb-4">
-                    <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                        Apa saja dokumen persyaratan untuk mendirikan CV?
-                    </summary>
-
-                    <span class="px-4 py-2">
-                        Para pendiri dan pengurus perusahaan:
-                        <br>
-                        1. KTP (e-KTP)
-                        2. Kartu Keluarga
-                        3. NPWP
-                        </br>
-                        Note:
-                        Mohon dipastikan alamat yang tercantum pada KTP dan NPWP sama dan valid
-                        NPWP para pendiri dan pengurus sudah menggunakan format terupdate (terdapat NIK pada NPWP)
-                        Tidak memiliki laporan pajak terhutang
-                    </span>
-                </details>
-                <details class="mb-4">
-                    <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                        Apakah saya bisa menggunakan rumah tempat tinggal sebagai alamat sekaligus kantor saya? </summary>
-
-                    <span class="px-4 py-2">
-                        Untuk wilayah DKI Jakarta, alamat yang digunakan CV harus sesuai dengan ketentuan zonasi yang ada dalam Perda DKI Jakarta No. 1/2014. Di aturan tersebut, domisili CV tidak diperkenankan berada di kawasan pemukiman. Sedangkan untuk daerah lain, pastikan terlebih dahulu melalui DPMPTSP setempat mengenai bisa atau tidaknya menggunakan alamat rumah sebagai domisili CV
-                    </span>
-                </details>
-                <details class="mb-4">
-                    <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                        Apa saja yang harus saya perhatikan dalam proses pendirian CV ?
-                    </summary>
-
-                    <span class="px-4 py-2">
-                        Salah satu hal yang paling penting dalam proses pendirian CV kamu wajib memperhatikan kode Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) yang digunakan pada maksud dan tujuan yang ada dalam akta pendirian CV. Hal ini dikarenakan Izin usaha yang dibutuhkan suatu perusahaan tergantung dari kode KBLI yang digunakan. Oleh karena itu, salah satu dampak yang muncul ketika kamu tidak menggunakan kode KBLI yang tepat adalah kamu akan diarahkan ke izin usaha yang sebenarnya tidak sesuai dengan kebutuhan perusahaan
-                    </span>
-                </details>
-            </div>
+<section class="flex:wrap mx-28 text-gray-700">
+    <div class="container py-24 ">
+        <div class="text-center mb-10">
+            <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-yellow-500 mb-4">
+                FAQ Pendirian CV
+            </h1>
+            <p class="text-base text-white leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
+                Pertanyaan yang sering ditanyakan oleh calon pendiri CV terkait paket pendirian CV.
+            </p>
         </div>
-</div>
+
+        <div class=" lg:w-1/1 px-4 py-2">
+            <details class="mb-4">
+                <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
+                    Apa saja dokumen persyaratan untuk mendirikan CV?
+                </summary>
+
+                <span class="text-white px-4 py-2">
+                    Para pendiri dan pengurus perusahaan:
+                    <br>
+                    1. KTP (e-KTP)
+                    2. Kartu Keluarga
+                    3. NPWP
+                    </br>
+                    Note:
+                    Mohon dipastikan alamat yang tercantum pada KTP dan NPWP sama dan valid
+                    NPWP para pendiri dan pengurus sudah menggunakan format terupdate (terdapat NIK pada NPWP)
+                    Tidak memiliki laporan pajak terhutang
+                </span>
+            </details>
+            <details class="mb-4">
+                <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
+                    Apakah saya bisa menggunakan rumah tempat tinggal sebagai alamat sekaligus kantor saya? </summary>
+
+                <span class="text-white px-4 py-2">
+                    Untuk wilayah DKI Jakarta, alamat yang digunakan CV harus sesuai dengan ketentuan zonasi yang ada dalam Perda DKI Jakarta No. 1/2014. Di aturan tersebut, domisili CV tidak diperkenankan berada di kawasan pemukiman. Sedangkan untuk daerah lain, pastikan terlebih dahulu melalui DPMPTSP setempat mengenai bisa atau tidaknya menggunakan alamat rumah sebagai domisili CV
+                </span>
+            </details>
+            <details class="mb-4">
+                <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
+                    Apa saja yang harus saya perhatikan dalam proses pendirian CV ?
+                </summary>
+
+                <span class="text-white px-4 py-2">
+                    Salah satu hal yang paling penting dalam proses pendirian CV kamu wajib memperhatikan kode Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) yang digunakan pada maksud dan tujuan yang ada dalam akta pendirian CV. Hal ini dikarenakan Izin usaha yang dibutuhkan suatu perusahaan tergantung dari kode KBLI yang digunakan. Oleh karena itu, salah satu dampak yang muncul ketika kamu tidak menggunakan kode KBLI yang tepat adalah kamu akan diarahkan ke izin usaha yang sebenarnya tidak sesuai dengan kebutuhan perusahaan
+                </span>
+            </details>
+        </div>
+    </div>
+    </div>
 </section>
 
 

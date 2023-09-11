@@ -192,10 +192,10 @@
 <section class="flex:wrap mx-28 text-gray-900">
     <div class="container py-24 ">
         <div class="text-center mb-10">
-            <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-yellow-700 mb-4">
+            <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-yellow-500 mb-4">
                 FAQ Seputar Layanan OSS RBA
             </h1>
-            <p class="text-base leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
+            <p class="text-base text-white leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
                 Pertanyaan yang sering ditanyakan terkait Layanan OSS RBA
             </p>
         </div>
@@ -206,7 +206,7 @@
                     Apa saja dokumen persyaratan untuk melakukan Penyesuaian Anggaran Dasar dan OSS RBA?
                 </summary>
 
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     <ul>
                         <li>1. Persetujuan Para Pendiri dan Pengurus (draft kami siapkan)</li>
                         <li>2. Akta & SK Kemenkumham Pendirian dan seluruh perubahannya</li>
@@ -214,7 +214,7 @@
                         <li>4. KTP dan NPWP seluruh pemegang saham dan pengurus</li>
                     </ul>
                     Note:
-                    <ul class="list-image-circle pl-8">
+                    <ul class="text-white list-image-circle pl-8">
                         <li>Mohon dipastikan alamat yang tercantum pada KTP dan NPWP sama dan valid</li>
                         <li>NPWP para pendiri dan pengurus sudah menggunakan format terupdate (terdapat NIK pada NPWP)</li>
                         <li>Tidak memiliki laporan pajak terhutang</li>
@@ -225,7 +225,7 @@
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
                     Bagaimana penyesuaian Anggaran Dasar dilakukan?
                 </summary>
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Penyesuaian dilakukan dengan mengubah isi Anggaran Dasar PT yang memuat bidang usaha sebagaimana tercantum dalam Maksud dan Tujuan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) terbaru
                 </span>
             </details>
@@ -234,7 +234,7 @@
                     Mengapa Maksud dan Tujuan harus sesuai dengan KBLI terbaru?
                 </summary>
 
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Salah satu yang wajib diisi oleh pelaku usaha saat melakukan registrasi ke dalam sistem OSS RBA adalah data mengenai bidang usaha yang diatur dalam KBLI. Saat ini sistem OSS RBA menggunakan KBLI 2020 yang mengacu pada Peraturan Kepala BPS 02/2020. Sehingga bagi PT yang masih menggunakan KBLI versi lama pada Maksud dan Tujuan wajib menyesuaikan Anggaran dasarnya terlebih dahulu agar proses registrasi OSS RBA dapat dilakukan. </span>
             </details>
 
@@ -242,7 +242,7 @@
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
                     Apa saja dokumen persyaratan untuk melakukan Registrasi OSS RBA?
                 </summary>
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Para pendiri dan pengurus perusahaan:
                     <ul>
                         <li> 1. Untuk PT/Yayasan AKTA & SK Kemenkumham bidang usaha yg tercantum di dalam akta pada sistem AHU sudah menggunakan KBLI 2017
@@ -263,7 +263,7 @@
                     Bila saya tidak atau belum memiliki persyaratan tersebut apa proses registrasi OSS RBA masih bisa dijalankan?
                 </summary>
 
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Kamu harus memiliki persyaratan tersebut. Atau bila dokumennya sudah ada tapi sudah tidak berlaku atau bukan dalam format terbaru maka kamu harus datang ke kantor pemerintah yang berwenang. Misalnya untuk NPWP, kamu bisa datang ke Kantor Pelayanan Pajak (KPP) setempat. Proses registrasi OSS RBA hanya bisa dilakukan apabila dokumen persyaratan dinyatakan benar dan lengkap.
             </details>
             <details class="mb-4">
@@ -271,7 +271,7 @@
                     Apa saja yang saya dapatkan setelah melakukan registrasi OSS RBA?
                 </summary>
 
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Kamu akan mendapatkan Nomor Induk Berusaha (NIB) sebagai identitas untuk Perusahaan dan Surat Izin Usaha Perdagangan (SIUP) atau izin usaha lain yang sesuai dengan kegiatan usaha kamu. Khusus untuk NIB dan SIUP, kedua dokumen legalitas tersebut berlaku selama Perusahaan melakukan kegiatan usahanya. Dengan begitu kamu tidak perlu lagi memperpanjang masa berlakunya.
             </details>
 

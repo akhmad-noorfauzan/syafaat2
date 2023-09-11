@@ -50,3 +50,12 @@ Route::get('/modal', function () {
     return view('modal'); // Perbaiki rujukan tampilan
 });
 
+
+Route::get('/merk', function () {
+    return view('merk'); // Perbaiki rujukan tampilan
+});
+
+Route::get('/office', function () {
+    return view('office'); // Perbaiki rujukan tampilan
+});
+

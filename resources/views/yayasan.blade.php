@@ -177,7 +177,7 @@
             <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-yellow-700 mb-4">
                 FAQ Pendirian Yayasan atau Badan Usaha Lainnya
             </h1>
-            <p class="text-base leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
+            <p class="text-base text-white leading-relaxed xl:w-1/1 lg:w-3/4 mx-auto">
                 Pertanyaan yang sering ditanyakan oleh pemilik Yayasan atau Badan Usaha Lainnya terkait pendaftaran.
             </p>
         </div>
@@ -188,7 +188,7 @@
                     Apa Saja Dokumen yang Dibutuhkan Untuk Mendirikan Badan Usaha?
                 </summary>
 
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     <ul>
                         <p>Para pendiri dan Pengurus Badan Usaha:</p>
                         <li>1. KTP (e-KTP)</li>
@@ -209,7 +209,7 @@
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
                     Apakah Domisili Badan Usaha Harus Seusai dengan Rencana Detail Tata Ruang?
                 </summary>
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Sejak berlakunya UU Cipta Kerja, setiap kegiatan pemanfaatan ruang harus sesuai dengan ketentuan RDTR masing-masing daerah, baik untuk kegiatan berusaha maupun kegiatan non berusaha. Jika ingin mendirikan Badan Usaha di Jakarta, sebaiknya melihat dahulu Peraturan Gubernur No. 31/2022 Tentang Rencana Detail Tata Ruang Wilayah Perencanaan Provinsi Daerah Khusus Ibukota Jakarta. Tidak hanya menyesuaikan dengan pelaksanaan OSS RBA, Pergub ini memberikan kemudahan bagi industri mikro untuk berlokasi di kawasan perumahan. Sedangkan industri kecil dapat berlokasi di kawasan perumahan dengan syarat tertentu.
                 </span>
             </details>
@@ -219,7 +219,7 @@
 
                 </summary>
 
-                <span class="px-4 py-2">
+                <span class="text-white px-4 py-2">
                     Salah satu hal yang paling penting dalam proses pendirian badan usaha kamu wajib memperhatikan kode Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) yang digunakan pada maksud dan tujuan yang ada dalam akta pendirian CV. Hal ini dikarenakan Izin usaha yang dibutuhkan suatu perusahaan tergantung dari kode KBLI yang digunakan. Oleh karena itu, salah satu dampak yang muncul ketika kamu tidak menggunakan kode KBLI yang tepat adalah kamu akan diarahkan ke izin usaha yang sebenarnya tidak sesuai dengan kebutuhan badan usaha.</span>
             </details>
 

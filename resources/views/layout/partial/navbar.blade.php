@@ -23,7 +23,7 @@
                     </svg>
                 </button>
                 <div class="hidden w-full md:block md:w-auto" id="navbar-dropdown">
-                    <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-800 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-transparent dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+                    <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-z00 rounded-lg bg-gray-800 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-transparent dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
                         <li>
                             <a href="/" class="block py-2 pl-3 pr-4 text-white bg-gray-800 md:hover:text-yellow-500 rounded md:bg-transparent md:text-white md:p-0 md:dark:text-yellow-500 dark:bg-yellow-600 md:dark:bg-transparent" aria-current="page">Beranda</a>
                         </li>
@@ -32,7 +32,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4" />
                                 </svg></button>
                             <!-- Dropdown menu -->
-                            <div id="dropdownNavbar" class="z-10 hidden font-normal bg-gray-300 divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
+                            <div id="dropdownNavbar" class="z-10 hidden font-normal bg-black divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
                                 <ul class="py-2 text-sm text-gray-1000 text-bold dark:text-gray-400" aria-labelledby="dropdownLargeButton">
                                     <li>
                                         <a href="/ptpersero" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendirian PT Perorangan</a>
@@ -59,10 +59,10 @@
                                         <a href="/modal" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Penanaman Modal Asing</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendaftaran Merek</a>
+                                        <a href="/merk" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Pendaftaran Merek</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Layanan Virtual Office</a>
+                                        <a href="/office" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Layanan Virtual Office</a>
                                     </li>
                                 </ul>
                                 <!-- <div class="py-1">
@@ -76,7 +76,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4" />
                                 </svg></button>
                             <!-- Dropdown menu -->
-                            <div id="dropdownNavbar2" class="z-10 hidden font-normal bg-gray-300 divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
+                            <div id="dropdownNavbar2" class="z-10 hidden font-normal bg-black divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
                                 <ul class="py-2 text-sm text-gray-1000 text-bold dark:text-gray-400" aria-labelledby="dropdownLargeButton">
                                     <li>
                                         <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Event</a>
@@ -96,7 +96,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4" />
                                 </svg></button>
                             <!-- Dropdown menu -->
-                            <div id="dropdownNavbar3" class="z-10 hidden font-normal bg-gray-300 divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
+                            <div id="dropdownNavbar3" class="z-10 hidden font-normal bg-black divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
                                 <ul class="py-2 text-sm text-gray-1000 text-bold dark:text-gray-400" aria-labelledby="dropdownLargeButton">
                                     <li>
                                         <a href="#" class="block px-4 py-2 hover:bg-yellow-700 dark:hover:bg-gray-600 dark:hover:text-white">Peraturan OSS (Online Single Submission) </a>

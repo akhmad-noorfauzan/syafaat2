@@ -201,6 +201,7 @@
             <img alt="testimonial" class="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://dummyimage.com/305x305">
             <p class="text-yellow-500 mb-10 text-2xl font-bold leading-relaxed">Anda Bisa Memulai
               Sekarang Juga</p>
+
             <span class="inline-block h-1 w-10 rounded bg-gray-100 mt-6 mb-4"></span>
             <ul class="list-image-circle text-lg box-border border-4 bg-gray-200 rounded-xl list-disc text-gray-900 font-medium pl-4 text-left">
               <li>PT Perorangan membantu Anda untuk bisa mulai melegalkan dan meningkatkan UMKM </li>
@@ -288,12 +289,12 @@
       </div>
     </div>
 
-    <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
-      <h1 class="title-font sm:text-3xl text-3xl mb-0 font-medium text-gray-800">Fasilitas
+    <div class="lg:w-1/3 md:w-1/2 bg-transparent flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
+      <h1 class="title-font sm:text-3xl text-3xl mb-0 font-medium text-white ">Fasilitas
       </h1>
       <h1 class="title-font sm:text-4xl text-3xl mb-0 font-medium text-yellow-400"> Virtual Office</h1>
-      <p>Khusus untuk klien Syafaat yang menggunakan layanan Paket Premium untuk mendirikan Kantor di Wilayah Kalimantan Selatan, kami menyediakan fasilitas berupa virtual office selama 1 tahun yang beralamat di kantor Syafaat. Dengan menggunakan layanan virtual office Anda akan mendapatkan:</p>
-      <ul class="pl-6 pt-2  marker:text-3xl list-image-ceklis">
+      <p class="text-white ">Khusus untuk klien Syafaat yang menggunakan layanan Paket Premium untuk mendirikan Kantor di Wilayah Kalimantan Selatan, kami menyediakan fasilitas berupa virtual office selama 1 tahun yang beralamat di kantor Syafaat. Dengan menggunakan layanan virtual office Anda akan mendapatkan:</p>
+      <ul class="pl-6 pt-2 text-white  marker:text-3xl list-image-ceklis">
         <li>
           Alamat surat menyurat
         </li>

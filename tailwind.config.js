@@ -34,6 +34,10 @@ module.exports = {
         },
     },
     variants: {},
-    plugins: [require("flowbite/plugin"),require("tw-elements/dist/plugin.cjs")],
-    darkMode: "class"
+    plugins: [
+        require("flowbite/plugin"),
+        require("tw-elements/dist/plugin.cjs"),
+        require("daisyui"),
+    ],
+    darkMode: "class",
 };
